@@ -7,9 +7,9 @@ Setup Node and Git first.
 ```
 npm install -g yarn gatsby-cli
 
-git clone https://github.com/kivancguckiran/dltr-ai-lab
+git clone https://github.com/yz-ai/yz-ai.gatsby
 
-cd dltr-ai-lab
+cd yz-ai.gatsby
 yarn install
 gatsby develop
 ```
